@@ -1,2 +1,3 @@
 # Scott Lowenstein
-# Lab 3 - Git    
+# Lab 3 - Git   
+Partner: Jesse Gonzales 
